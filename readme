@@ -1,0 +1,5 @@
+The repository is organised as follows:
+MutualInformation.m : This function is used to calculate the MI value of SNP interaction.
+mutualInfoTool.m : This function transfer the function "MutualInformation.m" to get the MI values of different order SNP combinations.
+multiSURF.m ： This function is used to calculate the Score array "score".
+MDSN.py : This is the main function of MDSN, and the final recognition result (K-order SNP combination related to diseases) is obtained by inputting SNP data.
